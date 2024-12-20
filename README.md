@@ -1,1 +1,1 @@
-# djang
+# django user authentication
